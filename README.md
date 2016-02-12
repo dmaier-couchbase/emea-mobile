@@ -1,2 +1,3 @@
-# emea-mobile
-Couchbase mobile source code examples
+# Couchbase Mobile Examples
+
+Contributed by the EMEA team.
